@@ -10,7 +10,6 @@ function App() {
       <header className="topbar">
         <a className="brand" href="#home">
           <img src={logo} alt="Sparknity logo" className="brand-logo" />
-          <span>{brand.name}</span>
         </a>
         <nav className="nav-links" aria-label="Primary navigation">
           <a href="#about">About</a>
